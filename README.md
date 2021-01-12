@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-Hey there! I am AbhsiheK from Karnal, IN.
+Hey there! I am Abhishek from Karnal, IN.
 
 Currently learning to be a good Engineer.
 
