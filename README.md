@@ -9,14 +9,14 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 
 
 ## ⚡ Languages/Tech
-<h2>
- - Python <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "22">
- - HTML5 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "20">
- - CSS3 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "20">   
- - JavaScript (HW) <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "20">   
- - BootStrap <img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "20">     
- - Databases: MySQL <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "20">     
- </h2>
+
+ - <h3>Python </h3><img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "22">
+ - <h3>HTML5 </h3><img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "20">
+ - <h3>CSS3 </h3><img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "20">   
+ - <h3>JavaScript (HW) </h3><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "20"> 
+ - <h3>BootStrap </h3><img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "20">     
+ - <h3>Databases: MySQL </h3><img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "20">     
+
 ##  👀 What I Am Learning rn
 
 - Currently learning Python OOPS (Object Oriented Programming ;). ✨ 🧠
