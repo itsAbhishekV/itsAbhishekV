@@ -31,6 +31,12 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 - Parallely Learning Spanish.
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
 
+## 📫  Connect with Me:
+
+ <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+ <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
+ <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a  href="https://www.instagram.com/dudewithdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ##  💻 My Tech Stuff:
 
@@ -43,12 +49,5 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  
   <img src="https://profile-counter.glitch.me/itsabhisekv/count.svg" />
 
-## 📫  Connect with Me:
-
- <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
- <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
- <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a  href="https://www.instagram.com/dudewithdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
 
  
