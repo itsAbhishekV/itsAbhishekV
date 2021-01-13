@@ -48,6 +48,4 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Mail me at - abhishekverma7t@gmail.com
 
  
-<h3>Viewers Count<h3>: 
-	
-	![GitHub watchers](https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&logo=GitHub&style=for-the-badge)
+      ![GitHub watchers](https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&logo=GitHub&style=for-the-badge)
