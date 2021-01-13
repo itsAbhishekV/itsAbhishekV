@@ -16,12 +16,13 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 <img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "22">
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "22">
 </h3>
- - <h4>Python </h4>
- - <h4>HTML5 </h4>
- - <h4>CSS3 </h4>
- - <h4>JavaScript (HW) </h4>
- - <h4>BootStrap </h4>     
- - <h4>Databases: MySQL </h4>     
+
+ - Python 
+ - HTML5 
+ - CSS3 
+ - JavaScript (HW) 
+ - BootStrap    
+ - Databases: MySQL      
 
 ##  👀 What I Am Learning rn
 
