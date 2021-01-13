@@ -50,4 +50,4 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  
 <h3>Viewers Count<h3>: 
 	
-	<h2><img src="https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&style=for-the-badge" alt="count"></h2>
+	<h2><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&style=for-the-badge"></h2>
