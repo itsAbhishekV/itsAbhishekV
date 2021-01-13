@@ -43,9 +43,9 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 
  - LinkedIn: https://www.linkedin.com/in/abhishek-verma-23993a1b7/  ✨👨
  - Telegram: https://t.me/AbhishekVerma078  ✨👨
- - Twitter: https://www.twitter.com/dudewithdimple  ✨👨
+ - Twitter: https://www.twitter.com/dudewithdimple  ✨👨 ![Twitter URL](https://img.shields.io/twitter/url?color=%230000CD%09&label=Twitter&logo=Twitter&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fdudewithdimple)
 	OR
  - Mail me at - abhishekverma7t@gmail.com
 
  
-      ![GitHub watchers](https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&logo=GitHub&style=for-the-badge)
+ ##   Viewers Count: ![GitHub watchers](https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&logo=GitHub&style=for-the-badge)
