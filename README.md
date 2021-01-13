@@ -41,11 +41,12 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 
 ## 📫  Connect with Me:
 
- - LinkedIn: https://www.linkedin.com/in/abhishek-verma-23993a1b7/  ✨👨
- - Telegram: https://t.me/AbhishekVerma078  ✨👨
- - Twitter: https://www.twitter.com/dudewithdimple  ✨👨 ![Twitter URL](https://img.shields.io/twitter/url?color=%230000CD%09&label=Twitter&logo=Twitter&style=flat-square&url=https%3A%2F%2Fwww.twitter.com%2Fdudewithdimple)
-	OR
- - Mail me at - abhishekverma7t@gmail.com
-
+ <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+ <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
+ <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a  href="https://www.instagram.com/dudewithdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  
- ##   Viewers Count: ![GitHub watchers](https://img.shields.io/github/watchers/itsAbhishekV/itsAbhishekV?label=Watch&logo=GitHub&style=for-the-badge)
+ ### Profile Views :<br>
+ 
+  <img src="https://profile-counter.glitch.me/itsabhisekv/count.svg" />
+ 
