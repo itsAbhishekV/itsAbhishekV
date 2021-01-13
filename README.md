@@ -1,6 +1,6 @@
 <h1> 👋 Hi there </h1>
 <h3>Hey there! I am Abhishek from Karnal, IN.</h3>
-
+<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Abhishek Verma" title="👋 Hi there! I'm Abhishek Verma"/>
 Currently learning to be a good Engineer.
 
 I am a really passionate programmer, good at Web Development, Python, Linux. I love interpreting code in Pycharm, and writing code in Visual Studio Code. I like to tweak around things to learn more and write good, efficient and clean code.
