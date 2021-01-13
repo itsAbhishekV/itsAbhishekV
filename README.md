@@ -38,6 +38,10 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Text Editors: VS Code
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
+			
+ ### Profile Views :<br>
+ 
+  <img src="https://profile-counter.glitch.me/itsabhisekv/count.svg" />
 
 ## 📫  Connect with Me:
 
@@ -46,7 +50,5 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a  href="https://www.instagram.com/dudewithdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  
- ### Profile Views :<br>
- 
-  <img src="https://profile-counter.glitch.me/itsabhisekv/count.svg" />
+
  
