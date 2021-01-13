@@ -1,4 +1,4 @@
-<h1> 👋 Hi there </h1>
+<h1 align="Center" style="font-family: 'JetBrains Mono'"> 👋 Hi there </h1>
 <h3>Hey there! I am Abhishek from Karnal, IN.</h3>
 Currently learning to be a good Engineer.
 
@@ -7,7 +7,7 @@ I am a really passionate programmer, good at Web Development, Python, Linux. I l
 Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
 
 
-## ⚡ Languages/Tech
+## ⚡ Languages/Tech:
 <h3>
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "22">
 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "22">
@@ -24,7 +24,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - BootStrap    
  - Databases: MySQL      
 
-##  👀 What I Am Learning rn
+##  👀 What I Am Learning rn:
 
 - Currently learning Python OOPS (Object Oriented Programming ;). 🧠
 - Getting better at what i have learned till now. 🧠
@@ -32,15 +32,19 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
 
 
-##  💻 My Stuff
+##  💻 My Tech Stuff:
 
  - IDE: PyCharm, WebStorm
  - Text Editors: VS Code
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
 
-## 📫  Contact Me:
+## 📫  Connect with Me:
 
- - LinkedIn: https://www.linkedin.com/in/abhishek-verma-23993a1b7/  ✨
- - Telegram: https://t.me/AbhishekVerma078  ✨
+ - LinkedIn: https://www.linkedin.com/in/abhishek-verma-23993a1b7/  ✨👨
+ - Telegram: https://t.me/AbhishekVerma078  ✨👨
+ - Twitter: https://www.twitter.com/dudewithdimple  ✨👨
+	OR
+ - Mail me at - abhishekverma7t@gmail.com
+
  
