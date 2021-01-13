@@ -1,4 +1,4 @@
-#<h2> 👋 Hi there </h2>
+<h2> 👋 Hi there </h2>
 <h3>
 	
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "20"> 
