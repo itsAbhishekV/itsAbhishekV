@@ -31,17 +31,24 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 - Parallely Learning Spanish.
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
 
-## 📫  Connect with Me:
+##  🧑 My Mentors/(People who inspire me):
+
+- <a href="https://github.com/aneagoie" target="_blank"><strong>Andrei Neagoie</strong></a>
+- <a href="https://github.com/Anmol92verma" target="_blank"><strong>Anmol Verma</strong></a>
+- <strong>Prof. Stephen Hawking </strong><small>Sadly!, He is not on Github</small>
+
+##  💬 Where to find me:
 
  <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
- <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="mailto:abhishekverma7t@gmail.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a  href="https://www.instagram.com/dudewithdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-##  💻 My Tech Stuff:
+##  💻 Tech I work with:
 
  - IDE: PyCharm, WebStorm
- - Text Editors: VS Code
+ - Text Editors: VS Code, Sublime Text
+ - Terminal: Bash
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
 			
