@@ -22,7 +22,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Python 
  - HTML5 
  - CSS3 
- - JavaScript (HW) 
+ - VanillaJS 
  - BootStrap
  - Git
  - Bash
@@ -57,7 +57,3 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
 			
-
-
-
- 
