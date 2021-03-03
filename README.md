@@ -30,12 +30,13 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 
 ##  👀 What I Am Learning rn:
 
-- Currently learning Python OOPS (Object Oriented Programming ;). 🧠
+- Currently learning Python OOPS (Object Oriented Programming ;) and Java. 🧠
+- Working on a React Project.
 - Getting better at what i have learned till now. 🧠
 - Parallely Learning Spanish.
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
 
-##  🧑 My Mentors/(People who inspire me):
+##  🧑 People who inspire me:
 
 - <a href="https://github.com/aneagoie" target="_blank"><strong>Andrei Neagoie</strong></a>
 - <a href="https://github.com/Anmol92verma" target="_blank"><strong>Anmol Verma</strong></a>
@@ -50,15 +51,13 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 
 ##  💻 Tech I work with:
 
- - IDE: PyCharm, WebStorm
+ - IDE: PyCharm, IntelliJ IDEA
  - Text Editors: VS Code, Sublime Text
  - Terminal: Bash
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
 			
- ### Profile Views :<br>
- 
-  <img src="https://profile-counter.glitch.me/itsabhisekv/count.svg" />
+
 
 
  
