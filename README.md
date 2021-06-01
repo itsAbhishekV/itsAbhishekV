@@ -14,9 +14,8 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "25">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "25">
 <img src = "https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" width = "25">
-<img src = "https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1617961626~hmac=ea411c28e9bf8734cf2c0ea4e0d3aa17" width = "25">
-<img src = "https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width = "25">
-<img src="https://cdn1.iconfinder.com/data/icons/flat-rounded-icons/48/ico-26-512.png" width="25">
+<img src = "https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg" width = "25">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "25">
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25">
 </p>
 
@@ -27,7 +26,6 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - React.js
  - JAVA
  - Git
- - Bash
  - Databases: MySQL      
 
 ##  👀 What I Am Learning rn:
@@ -54,8 +52,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 ##  💻 Tech I work with:
 
  - IDE: PyCharm, IntelliJ IDEA
- - Text Editors: VS Code, Sublime Text
- - Terminal: Bash
+ - Text Editors: VS Code
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
 			
