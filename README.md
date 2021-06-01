@@ -1,4 +1,4 @@
-<h1 align="Center" style="font-family: 'JetBrains Mono'"> 👋 Hiii </h1>
+<h1 align="Center" style="font-family: 'JetBrains Mono'"> 👋 Heyyyy </h1>
 <h3>Hey there! I am Abhishek from Karnal, IN.</h3>
 Currently learning to be a good Engineer.
 
