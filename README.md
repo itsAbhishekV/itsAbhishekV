@@ -1,4 +1,4 @@
-<h1 align="Center" style="font-family: 'JetBrains Mono'"> 👋 Heyyyy </h1>
+<h1 align="Center" style="font-family: 'Poppins'"> 👋 Heyyyy </h1>
 <h3>Hey there! I am Abhishek from Karnal, IN.</h3>
 Currently learning to be a good Engineer.
 
@@ -14,7 +14,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "25">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "25">
 <img src = "https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" width = "25">
-<img src = "https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg" width = "25">
+<img src = "https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "25">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "25">
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25">
 </p>
