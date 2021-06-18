@@ -1,11 +1,18 @@
-<h1 align="Center" style="font-family: 'Poppins'"> 👋 Heyyyy </h1>
+<h1 align="Center"> 👋 HELLOOOOO 🔥</h1>
 <h3>Hey there! I am Abhishek from Karnal, IN.</h3>
-Currently learning to be a good Engineer.
 
+<img src = 'https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966' width = '400' height = '280' />
+
+
+## 🔥 About me:
+<p>
+Currently learning to be a good Engineer.
+	
 I am a really passionate programmer, good at Web Development, Python, Linux. I love interpreting code in Pycharm, and writing code in Visual Studio Code. I like to tweak around things to learn more and write good, efficient and clean code.
 
 Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
-
+	
+</p>
 
 ## ⚡ Languages/Tech:
 <p>
@@ -28,7 +35,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Git
  - Databases: MySQL      
 
-##  👀 What I Am Learning rn:
+##  👀 What I am Learning rn:
 
 - Currently learning Data Structures and Algorithms. 🧠
 - Working on a React Project.
@@ -42,7 +49,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 - <a href="https://github.com/Anmol92verma" target="_blank"><strong>Anmol Verma</strong></a>
 - <strong>Prof. Stephen Hawking </strong><small>Sadly!, He is not on Github</small>
 
-##  💬 Where to find me:
+##  💬 You can find me at:
 
  <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
@@ -56,3 +63,5 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
 			
+			
+<img src = 'https://github-readme-stats.vercel.app/api?username=itsAbhishekv&show_icons=true' width = '400' heigth = '260' />
