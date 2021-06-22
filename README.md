@@ -6,7 +6,7 @@
 
 ## 🔥 About me:
 <p>
-Currently learning to be a good Engineer.
+	<code>&nbsp; Currently learning to be a good Engineer. &nbsp;</code>
 	
 I am a really passionate programmer, good at Web Development, Python, Linux. I love interpreting code in Pycharm, and writing code in Visual Studio Code. I like to tweak around things to learn more and write good, efficient and clean code.
 
@@ -58,10 +58,7 @@ Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stu
 
 ##  💻 Tech I work with:
 
- - IDE: PyCharm, IntelliJ IDEA
- - Text Editors: VS Code
- - Laptop:
+  - IDE: PyCharm, IntelliJ IDEA
+  - Text Editors: VS Code
+  - Laptop:
 			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
-			
-			
-<img src = 'https://github-readme-stats.vercel.app/api?username=itsAbhishekv&show_icons=true' width = '400' heigth = '260' />
