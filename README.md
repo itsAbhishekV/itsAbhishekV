@@ -6,11 +6,12 @@
 
 ## 🔥 About me:
 <p>
-	<code>&nbsp; Currently Learning to be a Good Engineer. &nbsp;</code>
 	
-I am a really passionate programmer, good at Web Development, Python, Linux. I love interpreting code in Pycharm, and writing code in Visual Studio Code. I like to tweak around things to learn more and write good, efficient and clean code.
+Currently Learning to be an Engineer
+	
+I am a really passionate programmer, good at Front End Web Development, Python, Java. I love making super duper websites and working on cool projects with my coding skills. I like to tweak around things to learn more and write good, efficient and clean code.
 
-Feel free to hit me up on LinkedIn or Telegram. Always happy to discuss some stuff, and maybe collaborate on projects!
+Feel free to connect with me on LinkedIn or any social platform. Always happy to discuss stuff, and maybe collaborate on projects!
 	
 </p>
 
