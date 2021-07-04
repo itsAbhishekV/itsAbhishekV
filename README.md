@@ -41,11 +41,6 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
 - Parallely Learning Spanish.
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
 
-##  🧑 People who inspire me:
-
-- <a href="https://github.com/aneagoie" target="_blank"><strong>Andrei Neagoie</strong></a>
-- <a href="https://github.com/Anmol92verma" target="_blank"><strong>Anmol Verma</strong></a>
-- <strong>Prof. Stephen Hawking </strong><small>Sadly!, He is not on Github</small>
 
 ##  💬 You can find me at:
 
