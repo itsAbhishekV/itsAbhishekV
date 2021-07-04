@@ -9,7 +9,7 @@
 	
 Currently Learning to be an Engineer
 	
-I am a really passionate programmer, good at Front End Web Development, Python, Java. I love making super duper websites and working on cool projects with my coding skills. I like to tweak around things to learn more and write good, efficient and clean code.
+I am a really passionate programmer, good at Front End Web Development, Python, Java. I love making super duper websites and working on cool projects. I like to tweak around things to learn more and write good, efficient and clean code.
 
 Feel free to connect with me on LinkedIn or any social platform. Always happy to discuss stuff, and maybe collaborate on projects!
 	
