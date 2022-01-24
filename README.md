@@ -35,7 +35,7 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
 
 ##  👀 What I am Learning rn:
 
-- Currently learning Data Structures and Algorithms. 🧠
+- Currently learning Data Structures and Algorithms + about BlockChain. 🧠
 - Working on a React Project.
 - Getting better at what i have learned till now. 🧠
 - Parallely Learning Spanish.
@@ -47,11 +47,12 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
  <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
  <a href="mailto:abhishekverma7t@gmail.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a  href="https://www.instagram.com/dudewithdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a  href="https://www.instagram.com/dudewthdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ##  💻 Tech I work with:
 
-  - IDE: PyCharm, IntelliJ IDEA
-  - Text Editors: VS Code
+  - IDE: PyCharm, IntelliJ IDEA, Webstorm
+  - Text: Editors: VS Code
+  - DBMS: Valentina Studios
   - Laptop:
-			- ASUS VivoBook Gaming, 8 GB Ram, OS:- PopOS (Linux) ✨
+			- ASUS VivoBook Gaming, 12 GB Ram, OS:- PopOS (Linux) ✨
