@@ -1,8 +1,5 @@
 <h1 align="Center"> 👋 HELLOOOOO 🔥</h1>
-<h3>Hey there! I am Abhishek from Karnal, IN.</h3>
-
-<img src = 'https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966' width = '370' height = '250' />
-
+<h3>I am Abhishek from Karnal, IN.</h3>
 
 ## 🔥 About me:
 <p>
@@ -21,6 +18,9 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
 	
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://icons8.com/icon/at2DODSyQznb/solidity" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://icons8.com/icon/7AFcZ2zirX6Y/dart" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://icons8.com/icon/7I3BjCqe9rjG/flutter" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height = "30" width = "30">&nbsp;&nbsp;
@@ -35,24 +35,21 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
 
 ##  👀 What I am Learning rn:
 
-- Currently learning Data Structures and Algorithms + about BlockChain. 🧠
-- Working on a React Project.
+- Working on a Flutter Project.
 - Getting better at what i have learned till now. 🧠
-- Parallely Learning Spanish.
+- Parallely Learning German.
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
 
 
 ##  💬 You can find me at:
 
  <a href="https://www.linkedin.com/in/abhishek-verma-23993a1b7/"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
- <a href="https://www.twitter.com/dudewithdimple"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
+ <a href="https://www.twitter.com/0xAbhishek"><img src="https://img.shields.io/badge/Abhishek Verma-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
  <a href="mailto:abhishekverma7t@gmail.com"><img src="https://img.shields.io/badge/abhishekverma7t@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a  href="https://www.instagram.com/dudewthdimple"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a  href="https://www.instagram.com/abhiiishekvermaa"><img src="https://img.shields.io/badge/@dudewithdimple_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ##  💻 Tech I work with:
 
-  - IDE: PyCharm, IntelliJ IDEA, Webstorm
+  - IDE: PyCharm, IntelliJ IDEA, Android Studio
   - Text: Editors: VS Code
   - DBMS: Valentina Studios
-  - Laptop:
-			- ASUS VivoBook Gaming, 12 GB Ram, OS:- PopOS (Linux) ✨
