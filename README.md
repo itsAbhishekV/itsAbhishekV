@@ -4,8 +4,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsAbhishekV&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp; <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsAbhishekV&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp; 
 
 ## 🔥 About me:
 <p>
