@@ -1,26 +1,31 @@
 <h1 align="Center"> 👋 HELLOOOOO 🔥</h1>
 <h3>I am Abhishek from Karnal, IN.</h3>
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsAbhishekV&theme=highcontrast)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsAbhishekV&theme=highcontrast)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp; <!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## 🔥 About me:
 <p>
 	
 Currently Learning to be an Engineer
 	
-I am a really passionate programmer, good at Front End Web Development, Python, Java. I love making super duper websites and working on cool projects. I like to tweak around things to learn more and write good, efficient and clean code.
+🚀 Enthusiastic coder fueled by coffee and creativity.. When not coding, you'll find me pondering the universe or enjoying a cup of coffee. I'm a good engineer at heart, passionate about crafting beautiful apps/website and I love building things from scratch.
 
-Feel free to connect with me on LinkedIn or any social platform. Always happy to discuss stuff, and maybe collaborate on projects!
+Feel free to connect with me on LinkedIn or any social platform. Let's turn caffeine into code together! ☕💻
+
 	
 </p>
 
 ## ⚡ Languages/Tech:
-
+&nbsp;
 <p>
 	
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height = "30" width = "30">&nbsp;&nbsp;
-<img src = "https://miro.medium.com/v2/resize:fit:1358/1*n8ExkAcF2xtntVtZkSUIGw.png" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://www.svgrepo.com/show/374088/solidity.svg" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://e7.pngegg.com/pngimages/471/910/png-clipart-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-miscellaneous-blue.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" height = "30" width = "30">&nbsp;&nbsp;
@@ -42,6 +47,7 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
 - Getting better at what i have learned till now. 🧠
 - Parallely Learning German.
 - Fun Fact - I love to talk about Space and Science and other knowledgeable stuff. 🌌 👽
+- I can also make some cool beats xD
 
 
 ##  💬 You can find me at:
