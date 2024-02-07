@@ -20,7 +20,7 @@ Feel free to connect with me on LinkedIn or any social platform. Let's turn caff
 </p>
 
 ## ⚡ Languages/Tech:
-&nbsp;
+
 <p>
 	
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height = "30" width = "30">&nbsp;&nbsp;
