@@ -18,9 +18,10 @@ Feel free to connect with me on LinkedIn or any social platform. Always happy to
 	
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height = "30" width = "30">&nbsp;&nbsp;
-<img src = "https://icons8.com/icon/at2DODSyQznb/solidity" height = "30" width = "30">&nbsp;&nbsp;
-<img src = "https://icons8.com/icon/7AFcZ2zirX6Y/dart" height = "30" width = "30">&nbsp;&nbsp;
-<img src = "https://icons8.com/icon/7I3BjCqe9rjG/flutter" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/ethereum_logo_icon_171173.png" height = "30" width = "30">&nbsp;&nbsp;
+<img src = "https://cdn.icon-icons.com/icons2/3914/PNG/512/dart_logo_icon_249077.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height = "30" width = "30">&nbsp;&nbsp;
