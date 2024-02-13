@@ -35,7 +35,6 @@ Feel free to connect with me on LinkedIn or any social platform. Let's turn caff
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwhdlrgiz7NiLtmqZtEUpanLIG3fI2UoYFAAyl1ADH7OMRu5BFQSXTcKcgeSwGhRaoIc&usqp=CAU" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" height = "30" width = "30">&nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height = "30" width = "30">&nbsp;&nbsp;
-<img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" height = "30" width = "30">
 	
 </p>
 
