@@ -2,7 +2,6 @@
 **🌍 From India | 🧑‍💻 Mobile Developer | 🪁 21 y/o**  
 
 
-
 ### 🚀 **About Me**  
 - 🎯 I build **fast, beautiful mobile apps** using **Flutter**.
 - 📜 Explored **Solidity** for smart contract development.
@@ -20,12 +19,10 @@
 ### 🛠️ **Tech Stack**  
 - **Languages**: Dart, Kotlin, Python, Java, Solidity  
 - **Frontend**: Flutter, React, Redux, CSS/SCSS  
-- **Extras**: Material Design, Riverpod, Bloc, Deep Linking, Computer Networks  
+- **Extras**: Material Design, Riverpod, Bloc, Deep Linking, Computer Networks, PostgreSQL, MySQL, MongoDB
 - **Tools**: GitHub, Supabase, Postman, Firebase  
 
 
 ### 📫 **Let’s Connect**  
-- 💼 [LinkedIn](https://linkedin.com/in/abhishek)  
-- 🐦 [Twitter](https://twitter.com/abhishek)  
 - 🌐 [Portfolio](https://www.abhiiishek.work)  
 - 📧 abhishekverma7t@gmail.com  
