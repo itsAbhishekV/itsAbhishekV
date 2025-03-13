@@ -12,8 +12,8 @@
 
 
 ### 💼 **Work**  
-- 👨‍🎨 ** Currently a Solo Mobile Engineer** at [PropTechBuzz](https://proptechbuzz.com).  
-- 👨‍🎨 ** 1yr as Mobile Developer** at [Invisible Studios](https://invisible.af).  
+- 👨‍🎨 **Currently a Solo Mobile Engineer** at [PropTechBuzz](https://proptechbuzz.com).  
+- 👨‍🎨 **1yr as Mobile Developer** at [Invisible Studios](https://invisible.af).  
 - 🎯 Freelancing for diverse clients.  
 
 
